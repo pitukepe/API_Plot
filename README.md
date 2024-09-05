@@ -18,7 +18,7 @@ The project involves fetching API data, saving it to a CSV file and using variou
 ├── weather_data.csv              # Saved API data
 └── README.md
 ```
-`weather_api.py`: Contain the python script for the API request, CSV file writing and plotting the fetched data.
+`weather_api.py`: Contains the python script for the API request, CSV file writing and plotting the fetched data.
 `weather_data.csv`: Contains the processed data in a CSV format.
 
 ## Technologies Used
